@@ -1,0 +1,5 @@
+GameData:/Localisation/AHA activation points/COMPANIES.csv
+GameData:/Localisation/AHA activation points/INTERFACE_INGAME.csv
+GameData:/Localisation/AHA activation points/INTERFACE_OUTGAME.csv
+GameData:/Localisation/AHA activation points/PLATOONS.csv
+GameData:/Localisation/AHA activation points/UNITS.csv
